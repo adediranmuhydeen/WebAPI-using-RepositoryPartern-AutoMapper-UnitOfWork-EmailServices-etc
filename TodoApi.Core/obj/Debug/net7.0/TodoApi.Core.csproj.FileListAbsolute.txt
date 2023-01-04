@@ -1,0 +1,12 @@
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\bin\Debug\net7.0\TodoApi.Core.deps.json
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\bin\Debug\net7.0\TodoApi.Core.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\bin\Debug\net7.0\TodoApi.Core.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.AssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\refint\TodoApi.Core.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\TodoApi.Core.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApi.Core\obj\Debug\net7.0\ref\TodoApi.Core.dll

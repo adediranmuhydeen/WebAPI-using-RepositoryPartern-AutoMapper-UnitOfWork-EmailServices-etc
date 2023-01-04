@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WNveGSbZCVjmlUMxqdrPjbQ/qjXWPCeJqEwgH/pqhllvO8cO+N2AzvX6s5/uiDvS0/7/ZYBGjQlezmfKdDTUMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\OneDrive\\Documents\\.Net\\TodoApiWithAuth\\TodoWithAuth.Application\\TodoWithAuth.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
