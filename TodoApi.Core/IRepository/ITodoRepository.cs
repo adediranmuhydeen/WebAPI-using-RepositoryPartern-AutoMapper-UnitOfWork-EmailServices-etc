@@ -1,6 +1,8 @@
-﻿namespace TodoApi.Core.IRepository
+﻿using TodoApi.Core.Domain;
+
+namespace TodoApi.Core.IRepository
 {
-    public interface ITodoRepository
+    public interface ITodoRepository : IGenericRepository<Todo>
     {
 
     }

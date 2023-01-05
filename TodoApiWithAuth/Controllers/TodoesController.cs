@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Core.Domain;
 using TodoApiWithAuth.Data;
@@ -10,10 +11,12 @@ namespace TodoApiWithAuth.Controllers
     public class TodoesController : ControllerBase
     {
         private readonly ToDoAuthContext _context;
+        private readonly IMapper _mapper;
 
-        public TodoesController(ToDoAuthContext context)
+        public TodoesController(ToDoAuthContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/Todoes

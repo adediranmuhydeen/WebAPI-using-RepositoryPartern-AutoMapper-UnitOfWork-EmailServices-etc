@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using TodoApi.Core.IRepository;
 using TodoApiWithAuth.Data;
 
@@ -7,44 +6,46 @@ namespace TodoApi.Infrastructure.Repository
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        private readonly IMapper _mapper;
         private readonly ToDoAuthContext _context;
         protected DbSet<T> _dbSet;
 
-        public GenericRepository(ToDoAuthContext context, IMapper mapper)
+        public GenericRepository(ToDoAuthContext context)
         {
             _context = context;
-            _mapper = mapper;
-            _dbSet = context.Set<T>();
+            _dbSet = _context.Set<T>();
         }
-        public Task<T> AddAsync(object obj)
+        public async Task<T> CreateAsync(T obj)
         {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> DeleteAsync(string Id)
-        {
-            throw new NotImplementedException();
+            await _dbSet.AddAsync(obj);
+            return obj;
         }
 
-        public Task<IEnumerable<T>> GetAllAsync()
+        public async Task<T> DeleteAsync(string Id)
         {
-            throw new NotImplementedException();
+            var itemToBeDeleted = await _dbSet.FindAsync(Id);
+            if (itemToBeDeleted == null)
+            {
+                return itemToBeDeleted;
+            }
+            _dbSet.Remove(itemToBeDeleted);
+            _context.SaveChanges();
+            return itemToBeDeleted;
         }
 
-        public Task<T> GetByIdAsync(string Id)
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _dbSet.ToListAsync();
         }
 
-        public Task<T> UpdateAsync(object obj)
+        public async Task<T> GetByIdAsync(string Id)
         {
-            throw new NotImplementedException();
+            return await _dbSet.FindAsync(Id);
         }
 
-        public Task<T> UpdateByIdAsync(string Id, object obj)
+        public async Task<T> UpdateByIdAsync(string Id)
         {
-            throw new NotImplementedException();
+            var res = await _dbSet.FindAsync(Id);
+            return res;
         }
     }
 }

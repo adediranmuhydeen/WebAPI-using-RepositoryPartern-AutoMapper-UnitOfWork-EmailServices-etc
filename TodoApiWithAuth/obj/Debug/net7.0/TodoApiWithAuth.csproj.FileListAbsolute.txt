@@ -5,6 +5,8 @@ C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Deb
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApiWithAuth.runtimeconfig.json
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApiWithAuth.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApiWithAuth.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\Humanizer.dll

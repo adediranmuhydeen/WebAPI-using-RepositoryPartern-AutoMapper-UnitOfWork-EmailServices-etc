@@ -3881,6 +3881,9 @@
       "TodoApi.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Azure.Core": "1.24.0"
+        },
         "compile": {
           "bin/placeholder/TodoApi.Core.dll": {}
         },
