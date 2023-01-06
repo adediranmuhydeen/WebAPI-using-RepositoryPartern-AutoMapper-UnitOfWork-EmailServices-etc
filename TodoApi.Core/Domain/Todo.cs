@@ -1,12 +1,15 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using TodoApi.Core.Enums;
 
 namespace TodoApi.Core.Domain
 {
     public class Todo
     {
-        public Guid Id { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public string Id { get; set; }
         [Required]
         [StringLength(25)]
         public string Title { get; set; }

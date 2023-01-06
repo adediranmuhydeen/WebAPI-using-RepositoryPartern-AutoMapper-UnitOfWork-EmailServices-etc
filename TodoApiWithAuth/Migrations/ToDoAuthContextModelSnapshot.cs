@@ -24,9 +24,9 @@ namespace TodoApiWithAuth.Migrations
 
             modelBuilder.Entity("TodoApi.Core.Domain.Todo", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<string>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");

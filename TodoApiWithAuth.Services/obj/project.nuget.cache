@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "KcDiszW2Gx6/yeaTa/umXaCir6M7ZA3OfrZdQhCOsxqRK1h5d0+hYUaAbkwuGJw6CQnunY94L3brQea2I9FQcg==",
+  "dgSpecHash": "6LsWuxT6lPK1u9LivRHGe5V6bXWu7kDiKdJxLIR2BJITuqRY/CbtyEWNenmc0JTZ4NZGRUgC83tLwts177baww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\OneDrive\\Documents\\.Net\\TodoApiWithAuth\\TodoApiWithAuth.Services\\TodoApiWithAuth.Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Decagon\\OneDrive\\Documents\\.Net\\TodoApiWithAuth\\TodoApiWithAuth.Services\\TodoApiWithAuthServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }

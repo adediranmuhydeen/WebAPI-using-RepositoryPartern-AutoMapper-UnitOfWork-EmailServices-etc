@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authentication.Negotiate;
 using Microsoft.EntityFrameworkCore;
 using TodoApiWithAuth.Data;
-
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ToDoAuthContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ToDoAuthContext") ?? throw new InvalidOperationException("Connection string 'ToDoAuthContext' not found.")));
@@ -14,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+//builder.Services.AddScoped<ITodoService,TodoService>();
 builder.Services.AddAuthentication(NegotiateDefaults.AuthenticationScheme)
    .AddNegotiate();
 

@@ -1,3 +1,10 @@
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.AssemblyInfoInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.AssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\appsettings.json
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApiWithAuth.exe
@@ -262,13 +269,6 @@ C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Deb
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApi.Core.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\bin\Debug\net7.0\TodoApi.Core.pdb
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.csproj.AssemblyReference.cache
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.AssemblyInfoInputs.cache
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.AssemblyInfo.cs
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.csproj.CoreCompileInputs.cache
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\TodoApiWithAuth.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\staticwebassets\msbuild.TodoApiWithAuth.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApiWithAuth.props
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoApiWithAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApiWithAuth.props

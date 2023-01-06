@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi.Core", "TodoApi.Cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoWithAuth.Application", "TodoWithAuth.Application\TodoWithAuth.Application.csproj", "{3C89D45B-C5FB-476C-B5FF-10260038F1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApiWithAuth.Services", "TodoApiWithAuth.Services\TodoApiWithAuth.Services.csproj", "{1C797A9A-7004-4F3B-91C2-C517ED03A058}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{3C89D45B-C5FB-476C-B5FF-10260038F1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C89D45B-C5FB-476C-B5FF-10260038F1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C89D45B-C5FB-476C-B5FF-10260038F1C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C797A9A-7004-4F3B-91C2-C517ED03A058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C797A9A-7004-4F3B-91C2-C517ED03A058}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C797A9A-7004-4F3B-91C2-C517ED03A058}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C797A9A-7004-4F3B-91C2-C517ED03A058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
