@@ -1,11 +1,14 @@
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\bin\Debug\net7.0\TodoWithAuth.Application.deps.json
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\bin\Debug\net7.0\TodoWithAuth.Application.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\bin\Debug\net7.0\TodoWithAuth.Application.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\bin\Debug\net7.0\TodoApi.Core.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\bin\Debug\net7.0\TodoApi.Core.pdb
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.csproj.AssemblyReference.cache
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.AssemblyInfoInputs.cache
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.AssemblyInfo.cs
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.csproj.CopyComplete
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\refint\TodoWithAuth.Application.dll
 C:\Users\Decagon\OneDrive\Documents\.Net\TodoApiWithAuth\TodoWithAuth.Application\obj\Debug\net7.0\TodoWithAuth.Application.pdb

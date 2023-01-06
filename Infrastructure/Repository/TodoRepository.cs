@@ -10,5 +10,15 @@ namespace TodoApi.Infrastructure.Repository
         {
 
         }
+
+        public async Task<Todo> GetByIdAsync(Func<object, bool> value)
+        {
+            var todo = await _dbSet.FindAsync(value);
+            if (todo == null)
+            {
+                return null;
+            }
+            return todo;
+        }
     }
 }

@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using TodoApi.Core.Domain;
+using TodoApi.Core.Dtos;
 
 namespace TodoWithAuth.Application
 {
@@ -6,7 +8,8 @@ namespace TodoWithAuth.Application
     {
         public MapInitializer()
         {
-
+            CreateMap<Todo, AddTodoDto>().ReverseMap();
+            CreateMap<Todo, UpdateTodoDto>().ReverseMap();
         }
 
     }
